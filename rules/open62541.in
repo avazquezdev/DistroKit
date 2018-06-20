@@ -1,0 +1,9 @@
+## SECTION=networking
+
+config OPEN62541
+	tristate
+	prompt "open62541"
+	select HOST_CMAKE
+	help
+          The open62541 project is an open source implementation of the OPC UA
+          communication infrastructure which is used in industrial control.
