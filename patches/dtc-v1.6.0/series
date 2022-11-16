@@ -1,0 +1,2 @@
+0001-dtc-Fix-Makefile-to-add-CFLAGS-not-override.patch
+0001-fdtdump-Fix-gcc11-warning.patch
